@@ -15,3 +15,26 @@ caffeine是一个面向未来的本地缓存框架，该工程提供者了caffei
 
 ### 实战demo
 
+[淘汰机制](.\caffeine-demo\src\main\java\com\nuofankj\caffeinestudy\eviction)
+
+[监听器](.\caffeine-demo\src\main\java\com\nuofankj\caffeinestudy\listener)
+
+[数据加载](.\caffeine-demo\src\main\java\com\nuofankj\caffeinestudy\load)
+
+[数据记录](.\caffeine-demo\src\main\java\com\nuofankj\caffeinestudy\record)
+
+[数据刷新](.\caffeine-demo\src\main\java\com\nuofankj\caffeinestudy\refresh)
+
+[writer机制](.\caffeine-demo\src\main\java\com\nuofankj\caffeinestudy\writer)
+
+
+
+### 源码分析
+
+正在写
+
+
+
+### 组件设计与应用
+
+正在设计
