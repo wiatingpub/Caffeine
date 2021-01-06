@@ -43,8 +43,6 @@ caffeine是一个面向未来的本地缓存框架，该工程提供者了caffei
 
 ### 最后
 
-使用Caffeien遇见任何问题都可以向我提问。
+使用Caffeien遇见任何问题都可以向我提问
 
-
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/YtkPhPEJUujFBY0moFfUow2De2yibMUcsZicWBiap9qFlP3yvibIsAPIfFtxHaZsLrLEzOz8G5H8ibAtTLLNTxVztfQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![image-20210106215658043](https://gitee.com/xi_fan/img/raw/master/image-20210106215658043.png)
